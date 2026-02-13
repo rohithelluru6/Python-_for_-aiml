@@ -8,4 +8,9 @@ enter your temperature in c: 100
 enter your temperature in k: 100
 100 k= -173.14999999999998 c
 
+# output of area_of_rectangle.py
+enter the length of rectangle: 7
+enter the breadth of rectangle: 4
+28
 
+=== Code Execution Successful ===
