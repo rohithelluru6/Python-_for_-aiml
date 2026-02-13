@@ -14,3 +14,7 @@ enter the breadth of rectangle: 4
 28
 
 === Code Execution Successful ===
+# output of perimeter_of_rectangle.py
+14
+
+=== Code Execution Successful ====
