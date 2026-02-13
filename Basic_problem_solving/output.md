@@ -18,3 +18,7 @@ enter the breadth of rectangle: 4
 14
 
 === Code Execution Successful ====
+# Triangle.py
+enter the first angle: 90
+enter the second angle: 0
+it is right angled triangle
