@@ -1,6 +1,9 @@
-# code
 def area_of_rectangle(a,b):
     area=a*b
     return area
-c=area_of_rectangle(5,4)
+    
+a=int(input("enter the length of rectangle: ")) 
+b=int(input("enter the breadth of rectangle: "))
+
+c=area_of_rectangle(a,b)
 print(c)
