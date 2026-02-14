@@ -28,3 +28,13 @@ years 2
 months 26
 weeks 114
 
+# output of student_marks_caluclation.py
+enter the marks in 1st subject : 90
+enter the marks in 2nd subject : 80
+enter the marks in 3rd subject : 70
+enter the marks in 4th subject : 99
+enter the marks in 5th subject : 89
+total marks 428
+average marks 85
+percentage 17.0
+
