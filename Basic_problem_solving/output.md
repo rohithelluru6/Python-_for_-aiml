@@ -36,5 +36,12 @@ enter the marks in 4th subject : 99
 enter the marks in 5th subject : 89
 total marks 428
 average marks 85
-percentage 17.0
+percentage 17.
+
+# output of area_and_perimeter_of_circle.py
+
+enter the radius of the circle: 8
+area and circumference (201.06192982974676, 50.26548245743669)
+
+
 
