@@ -53,5 +53,9 @@ rohith
 ***
 ****
 
+# output of vertically_thrown_particle'py
+enter the velocity70
+velocity of particle 14.285714285714285
+
 
 
