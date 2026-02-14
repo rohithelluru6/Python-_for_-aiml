@@ -22,3 +22,9 @@ enter the breadth of rectangle: 4
 enter the first angle: 90
 enter the second angle: 0
 it is right angled triangle
+# output of conversion_of_days_into_years_etc
+enter the no days: 800
+years 2
+months 26
+weeks 114
+
