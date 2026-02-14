@@ -47,5 +47,11 @@ area and circumference (201.06192982974676, 50.26548245743669)
 enter the name; rohith
 rohith
 
-=== Code Execution Successful ===
+# out of asterisk_pattern.py
+*
+**
+***
+****
+
+
 
