@@ -58,4 +58,7 @@ enter the velocity70
 velocity of particle 14.285714285714285
 
 
+# output of Ball_bouncing_distance.py
 
+enter the height: 60
+total distance travelled untill third touch  78.75
