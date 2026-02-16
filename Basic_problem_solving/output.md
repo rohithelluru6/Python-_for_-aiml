@@ -81,6 +81,10 @@ enter the intrest rate(%): 50
 enter a positive digit: 50
 1275
 
+# output of conditional_expreesion_conversion.py
+#b
+enter the marks: 70
+pass
 
 
 
