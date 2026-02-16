@@ -90,6 +90,10 @@ enter the value: 5
 enter the value: 6
 0
 
+# output of grade_caluclation.py
+enter the marks: 99
+grade is A
+
 
 
 
