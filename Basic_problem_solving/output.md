@@ -71,6 +71,12 @@ enter the intrest rate(%): 50
 4 101250.0
 5 151875.0
 
+# output of asterisk_triangle_pattern.py
+*
+***
+*****
+*******
+
 
 
 
