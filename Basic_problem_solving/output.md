@@ -77,7 +77,9 @@ enter the intrest rate(%): 50
 *****
 *******
 
-
+# output of larget_value_of_sum.py
+enter a positive digit: 50
+1275
 
 
 
