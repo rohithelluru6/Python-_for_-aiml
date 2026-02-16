@@ -85,6 +85,11 @@ enter a positive digit: 50
 #b
 enter the marks: 70
 pass
+#a
+enter the value: 5
+enter the value: 6
+0
+
 
 
 
