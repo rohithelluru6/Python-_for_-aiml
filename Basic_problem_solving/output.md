@@ -94,6 +94,10 @@ enter the value: 6
 enter the marks: 99
 grade is A
 
+# output of yes_no_selection.py
+enter the y/Y for yes OR N/n for noY
+yes
+
 
 
 
