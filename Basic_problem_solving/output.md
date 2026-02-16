@@ -62,3 +62,31 @@ velocity of particle 14.285714285714285
 
 enter the height: 60
 total distance travelled untill third touch  78.75
+# output of fixed_deposit_intrest.py
+enter the amount: 20000
+enter the intrest rate(%): 50
+1 30000.0
+2 45000.0
+3 67500.0
+4 101250.0
+5 151875.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
