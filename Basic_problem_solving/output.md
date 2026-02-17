@@ -104,6 +104,11 @@ for i in range(1,a+1):
     if a%i==0:
         print(i)
 
+# output of reverse_4digit_number.py
+enter the number: 1234
+4321
+3087
+
 
 
 
