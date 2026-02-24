@@ -109,6 +109,12 @@ enter the number: 1234
 4321
 3087
 
+# output of triangle_angle_and_types.py
+enter the first angle: 90
+enter the second angle: 20
+70.0
+triangle is right angled triangle
+
 
 
 
