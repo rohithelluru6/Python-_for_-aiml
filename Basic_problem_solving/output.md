@@ -114,6 +114,10 @@ enter the first angle: 90
 enter the second angle: 20
 70.0
 triangle is right angled triangle
+# output of taxi_fare_caluclator.py
+enter the distance in kilometers: 120
+656.0
+
 
 
 
