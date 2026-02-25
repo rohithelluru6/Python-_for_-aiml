@@ -121,6 +121,11 @@ enter the distance in kilometers: 120
 # output of sum_of_series.py
 enter the number: 10
 sum of series= -0.24999576622804787
+# output of perfect_numbers_up_to_1000.py
+6
+28
+496
+
 
 
 
