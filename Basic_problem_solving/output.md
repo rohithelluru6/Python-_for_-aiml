@@ -118,6 +118,10 @@ triangle is right angled triangle
 enter the distance in kilometers: 120
 656.0
 
+# output of sum_of_series.py
+enter the number: 10
+sum of series= -0.24999576622804787
+
 
 
 
