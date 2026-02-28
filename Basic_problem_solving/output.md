@@ -126,6 +126,9 @@ sum of series= -0.24999576622804787
 28
 496
 
+# ant_and_stretching_rope_problem.py
+total time taken 55.0
+
 
 
 
