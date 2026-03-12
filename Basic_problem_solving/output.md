@@ -135,8 +135,8 @@ total time taken 55.0
 # output of remove_duplicates.py
 [1, 2, 3, 4, 5, 6]
 
-
-
+# output of find_max_min.py
+(9, 3)
 
 
 
