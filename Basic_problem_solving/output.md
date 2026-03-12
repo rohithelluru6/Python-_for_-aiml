@@ -132,7 +132,8 @@ total time taken 55.0
 # set1_partA.py
 (120, 8.0, 7, 8)
 
-
+# output of remove_duplicates.py
+[1, 2, 3, 4, 5, 6]
 
 
 
