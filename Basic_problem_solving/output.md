@@ -138,6 +138,54 @@ total time taken 55.0
 # output of find_max_min.py
 (9, 3)
 
+# output of square_list.py
+[4, 16, 36, 64]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
